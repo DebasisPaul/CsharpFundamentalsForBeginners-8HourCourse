@@ -6,8 +6,8 @@ This tutorial will cover the following topics:
 - [Get started learning C# with C# notebooks powered by .NET Interactive and VS Code.](https://github.com/DebasisPaul/csharp-notebooks)
 - [Getting started tutorials for C# and ASP.NET](https://github.com/DebasisPaul/training-tutorials)
 
-[Tutorial: Create a simple C# console app in Visual Studio (part 1 of 2)](https://docs.microsoft.com/en-us/visualstudio/get-started/csharp/tutorial-console?view=vs-2022)
-[Tutorial: Extend C# console app and debug in Visual Studio (part 2 of 2)](https://docs.microsoft.com/en-us/visualstudio/get-started/csharp/tutorial-console-part-2?view=vs-2022)
+- [Tutorial: Create a simple C# console app in Visual Studio (part 1 of 2)](https://docs.microsoft.com/en-us/visualstudio/get-started/csharp/tutorial-console?view=vs-2022)
+- [Tutorial: Extend C# console app and debug in Visual Studio (part 2 of 2)](https://docs.microsoft.com/en-us/visualstudio/get-started/csharp/tutorial-console-part-2?view=vs-2022)
 
 - [lets learn dot net with C#](https://www.theurlist.com/letslearndotnet-csharp/?WT.mc_id=dotnet-22477-jasingl)
 - [Get Started With C#](https://dotnet.microsoft.com/languages/csharp)
@@ -50,20 +50,20 @@ ASP.NET Resources
 - [Support lifecycle for ASP.NET web stack](https://docs.microsoft.com/en-us/troubleshoot/aspnet/support-lifecycle-web-stack?WT.mc_id=dotnet-35129-website)
 - [ASP.NET documentation](https://docs.microsoft.com/en-us/aspnet/core/?view=aspnetcore-5.0)
 
-[Entity Framework documentation](https://docs.microsoft.com/en-us/ef/)
+- [Entity Framework documentation](https://docs.microsoft.com/en-us/ef/)
 
 
-[Microsoft MVP since 2012 ("Developer Technologies" category)](https://github.com/thomaslevesque)
+- [Microsoft MVP since 2012 ("Developer Technologies" category)](https://github.com/thomaslevesque)
 
-[Azure](https://azure.microsoft.com/en-us/)
-[Azure documentation](https://docs.microsoft.com/en-us/azure/?product=featured)
-[the Microsoft Cloud](https://www.microsoft.com/en-us/microsoft-cloud)
-[Microsoft Dynamics 365](https://dynamics.microsoft.com/en-us/)
-[Microsoft SQL documentation](https://docs.microsoft.com/en-us/sql/?view=sql-server-ver15)
-[Visual Studio product family documentation](https://docs.microsoft.com/en-us/visualstudio/?view=vs-2019)
-[Visual Studio App Center documentation](https://docs.microsoft.com/en-us/appcenter/)
+- [Azure](https://azure.microsoft.com/en-us/)
+- [Azure documentation](https://docs.microsoft.com/en-us/azure/?product=featured)
+- [the Microsoft Cloud](https://www.microsoft.com/en-us/microsoft-cloud)
+- [Microsoft Dynamics 365](https://dynamics.microsoft.com/en-us/)
+- [Microsoft SQL documentation](https://docs.microsoft.com/en-us/sql/?view=sql-server-ver15)
+- [Visual Studio product family documentation](https://docs.microsoft.com/en-us/visualstudio/?view=vs-2019)
+- [Visual Studio App Center documentation](https://docs.microsoft.com/en-us/appcenter/)
 
 DESKTOP App Developement
-[Universal Windows Platform documentation0](https://docs.microsoft.com/en-us/windows/uwp/)
-[Windows Forms documentation](https://docs.microsoft.com/en-us/dotnet/desktop/winforms/?view=netdesktop-5.0)
-[Windows Presentation Foundation documentation](https://docs.microsoft.com/en-us/dotnet/desktop/wpf/?view=netdesktop-5.0)
+- [Universal Windows Platform documentation0](https://docs.microsoft.com/en-us/windows/uwp/)
+- [Windows Forms documentation](https://docs.microsoft.com/en-us/dotnet/desktop/winforms/?view=netdesktop-5.0)
+- [Windows Presentation Foundation documentation](https://docs.microsoft.com/en-us/dotnet/desktop/wpf/?view=netdesktop-5.0)
