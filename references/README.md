@@ -16,7 +16,7 @@ This tutorial will cover the following topics:
 - [Programming languages and software engineering Microsoft Reasearch](https://www.microsoft.com/en-us/research/research-area/programming-languages-software-engineering/?facet%5Btax%5D%5Bmsr-research-area%5D%5B0%5D=13560&sort_by=most-recent)
 - [.NET Architecture Guides](https://dotnet.microsoft.com/learn/dotnet/architecture-guides)
 - [Learn .NET](https://dotnet.microsoft.com/learn)
-- [.NET Live TV](.NET Live TV)
+- [.NET Live TV](https://dotnet.microsoft.com/live)
 - [.NET on Q&A](https://docs.microsoft.com/en-us/answers/products/dotnet?WT.mc_id=dotnet-35129-website)
 
 
