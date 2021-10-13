@@ -7,10 +7,12 @@ This tutorial will cover the following topics:
 - [Getting started tutorials for C# and ASP.NET](https://github.com/DebasisPaul/training-tutorials)
 - 
 <hr>
+
 - [Tutorial: Create a simple C# console app in Visual Studio (part 1 of 2)](https://docs.microsoft.com/en-us/visualstudio/get-started/csharp/tutorial-console?view=vs-2022)
 - [Tutorial: Extend C# console app and debug in Visual Studio (part 2 of 2)](https://docs.microsoft.com/en-us/visualstudio/get-started/csharp/tutorial-console-part-2?view=vs-2022)
 
 <hr>
+
 - [What is .NET?](https://dotnet.microsoft.com/learn/dotnet/what-is-dotnet)
 - [lets learn dot net with C#](https://www.theurlist.com/letslearndotnet-csharp/?WT.mc_id=dotnet-22477-jasingl)
 - [Get Started With C#](https://dotnet.microsoft.com/languages/csharp)
@@ -66,6 +68,7 @@ This tutorial will cover the following topics:
 
 
 <hr>
+
 Future Technology by Microsoft
 - [Microsoft AI](https://www.microsoft.com/en-us/ai?rtc=1&activetab=pivot1:primaryr6)
 - [Microsoft Research](https://www.microsoft.com/en-us/research/)
@@ -74,6 +77,7 @@ Future Technology by Microsoft
 - [Azure Cognitive Services](https://azure.microsoft.com/en-us/services/cognitive-services/#overview)
 
 <hr>
+
 ASP.NET Resources
 - [Learn ASP.NET](https://dotnet.microsoft.com/learn/aspnet)
 - [Gitter ASP.NET](https://gitter.im/aspnet/Home)
@@ -85,11 +89,15 @@ ASP.NET Resources
 - [ASP.NET Blog](https://devblogs.microsoft.com/aspnet/)
 
 <hr>
+
 - [Entity Framework documentation](https://docs.microsoft.com/en-us/ef/)
 
 <hr>
+
 - [Microsoft MVP since 2012 ("Developer Technologies" category)](https://github.com/thomaslevesque)
+- 
 <hr>
+
 - [Azure](https://azure.microsoft.com/en-us/)
 - [Azure documentation](https://docs.microsoft.com/en-us/azure/?product=featured)
 - [the Microsoft Cloud](https://www.microsoft.com/en-us/microsoft-cloud)
@@ -97,7 +105,9 @@ ASP.NET Resources
 - [Microsoft SQL documentation](https://docs.microsoft.com/en-us/sql/?view=sql-server-ver15)
 - [Visual Studio product family documentation](https://docs.microsoft.com/en-us/visualstudio/?view=vs-2019)
 - [Visual Studio App Center documentation](https://docs.microsoft.com/en-us/appcenter/)
+- 
 <hr>
+
 DESKTOP App Developement
 - [Universal Windows Platform documentation0](https://docs.microsoft.com/en-us/windows/uwp/)
 - [Windows Forms documentation](https://docs.microsoft.com/en-us/dotnet/desktop/winforms/?view=netdesktop-5.0)
