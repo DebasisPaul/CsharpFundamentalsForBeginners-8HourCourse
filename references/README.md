@@ -84,7 +84,7 @@ ASP.NET Resources
 - [ASP.NET Community Blogs](https://weblogs.asp.net/)
 - [Support lifecycle for ASP.NET web stack](https://docs.microsoft.com/en-us/troubleshoot/aspnet/support-lifecycle-web-stack?WT.mc_id=dotnet-35129-website)
 - [ASP.NET documentation](https://docs.microsoft.com/en-us/aspnet/core/?view=aspnetcore-5.0)
-- [ASP.NET])(https://dotnet.microsoft.com/apps/aspnet)
+- [ASP.NET](https://dotnet.microsoft.com/apps/aspnet)
 - [ASP.NET Support Policy](https://dotnet.microsoft.com/platform/support/policy/aspnet)
 - [ASP.NET Blog](https://devblogs.microsoft.com/aspnet/)
 
