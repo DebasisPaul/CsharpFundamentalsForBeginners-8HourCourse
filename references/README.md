@@ -82,7 +82,9 @@ This tutorial will cover the following topics:
 - [.NET Presentations: Events in a Box!](https://dotnetfoundation.org/community/resources)
 - [Questions tagged [.net] || StackOverflow](https://stackoverflow.com/questions/tagged/.net?sort=frequent)
 - [Questions tagged [c#] || StackOverFlow](https://stackoverflow.com/questions/tagged/c%23?tab=Frequent)
-- [On .NET || Channel 9](https://channel9.msdn.com/Shows/On-NET)
+- [On .NET || Channel 9](https://channel9.msdn.com/Shows/On-NET)\
+- [Dapr for .NET Developers](https://docs.microsoft.com/en-us/dotnet/architecture/dapr-for-net-developers/)
+- [.NET Microservices: Architecture for Containerized .NET Applications](https://docs.microsoft.com/en-us/dotnet/architecture/microservices/)
 
 
 <hr>
@@ -113,11 +115,11 @@ ASP.NET Resources
 - [ASP.NET Core Blazor supported platforms](https://docs.microsoft.com/en-us/aspnet/core/blazor/supported-platforms?view=aspnetcore-5.0)
 
 
-- [Entity Framework || Github](https://github.com/dotnet/efcore)
 
 <hr>
 
 - [Entity Framework documentation](https://docs.microsoft.com/en-us/ef/)
+- [Entity Framework || Github](https://github.com/dotnet/efcore)
 
 <hr>
 
@@ -132,13 +134,24 @@ ASP.NET Resources
 - [Microsoft SQL documentation](https://docs.microsoft.com/en-us/sql/?view=sql-server-ver15)
 - [Visual Studio product family documentation](https://docs.microsoft.com/en-us/visualstudio/?view=vs-2019)
 - [Visual Studio App Center documentation](https://docs.microsoft.com/en-us/appcenter/)
-- 
+- [Architecting Cloud Native .NET Applications for Azure](https://docs.microsoft.com/en-us/dotnet/architecture/cloud-native/)
+- [Serverless apps: Architecture, patterns, and Azure implementation](https://docs.microsoft.com/en-us/dotnet/architecture/serverless/)
+- [Deploy a Worker Service to Azure](https://docs.microsoft.com/en-us/dotnet/core/extensions/cloud-service?pivots=visualstudio)
+- [Azure for .NET developers](https://docs.microsoft.com/en-us/dotnet/azure/)
+- [Migrate your .NET web app or service to Azure App Service](https://docs.microsoft.com/en-us/dotnet/azure/migration/app-service?preserve-view=true&view=azure-dotnet)
+- [Key Azure Services for .NET developers](https://docs.microsoft.com/en-us/dotnet/azure/key-azure-services)
+- [Azure SDK for .NET overview](https://docs.microsoft.com/en-us/dotnet/azure/sdk/azure-sdk-for-dotnet)
+
+
 <hr>
 
 DESKTOP App Developement
 - [Universal Windows Platform documentation0](https://docs.microsoft.com/en-us/windows/uwp/)
 - [Windows Forms documentation](https://docs.microsoft.com/en-us/dotnet/desktop/winforms/?view=netdesktop-5.0)
 - [Windows Presentation Foundation documentation](https://docs.microsoft.com/en-us/dotnet/desktop/wpf/?view=netdesktop-5.0)
+- [Reference for Universal Windows Platform (UWP) apps](https://docs.microsoft.com/en-us/uwp/)
+- [.NET Desktop Guide for Windows Forms](https://docs.microsoft.com/en-us/dotnet/desktop/winforms/?view=netframeworkdesktop-4.8&preserve-view=true)
+- [.NET Multi-platform App UI documentation](https://docs.microsoft.com/en-us/dotnet/maui/)
 
 <hr>
 
