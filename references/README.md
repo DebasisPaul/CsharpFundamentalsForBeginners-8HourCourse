@@ -68,6 +68,9 @@ This tutorial will cover the following topics:
 - [Lifecycle FAQ - .NET Framework](https://docs.microsoft.com/en-US/lifecycle/faq/dotnet-framework)
 - [How to write a quality question](https://docs.microsoft.com/en-us/answers/support/quality-question)
 - [Announcing the Candidates .NET Foundation Election 2021](https://dotnetfoundation.org/blog/2021/09/01/announcing-net-foundation-elections-2021)
+- [.NET Platform || Github](https://github.com/dotnet)
+- [.NET Product Roadmap](https://github.com/dotnet/core/blob/main/product-roadmap/current.md)
+- [Microsoft || Github](https://github.com/microsoft)
 
 
 <hr>
