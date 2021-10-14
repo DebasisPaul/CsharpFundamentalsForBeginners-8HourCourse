@@ -107,7 +107,10 @@ ASP.NET Resources
 - [ASP.NET Blog](https://devblogs.microsoft.com/aspnet/)
 - [ASP.NET || Github](https://github.com/aspnet)
 - [ASP.NET Core 101](https://channel9.msdn.com/Series/CSharp-101/?WT.mc_id=dotnet-22477-jasingl)
-- 
+- [Tutorial: Create a Razor Pages web app with ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/tutorials/razor-pages/?view=aspnetcore-6.0)
+- [Get started with ASP.NET Core MVC](https://docs.microsoft.com/en-us/aspnet/core/tutorials/first-mvc-app/start-mvc?view=aspnetcore-5.0&tabs=visual-studio)
+- [Migrating ASP.NET MVC Applications to Windows Containers](https://docs.microsoft.com/en-us/aspnet/mvc/overview/deployment/docker-aspnetmvc)
+- [ASP.NET Core Blazor supported platforms](https://docs.microsoft.com/en-us/aspnet/core/blazor/supported-platforms?view=aspnetcore-5.0)
 
 
 - [Entity Framework || Github](https://github.com/dotnet/efcore)
