@@ -186,3 +186,12 @@ Microsoft Learning Path
 - [Azure Fundamentals part 5: Describe identity, governance, privacy, and compliance features](https://docs.microsoft.com/en-us/learn/paths/az-900-describe-identity-governance-privacy-compliance-features/)
 - [Azure Fundamentals part 6: Describe Azure cost management and service level agreements](https://docs.microsoft.com/en-us/learn/paths/az-900-describe-azure-cost-management-service-level-agreements/)
 - [Azure SQL fundamentals](https://docs.microsoft.com/en-us/learn/paths/azure-sql-fundamentals/)
+
+Online Tutorials
+- [ASP.NET Core MVC Tutorial for Beginners](https://www.pragimtech.com/courses/asp-net-core-mvc-tutorial-for-beginners/)
+- [Introduction to ASP.NET Core Framework](https://dotnettutorials.net/lesson/introduction-to-asp-net-core/)
+- [ASP.NET Core Tutorials](https://www.tutorialsteacher.com/core)
+- [Alison](https://alison.com/)
+- [The Ultimate C# Series: Part 1](https://codewithmosh.com/p/csharp-basics-for-beginners)
+- [MIT Open Course Ware](https://ocw.mit.edu/courses/most-visited-courses/)
+- [C# Tutorial For Beginners](https://www.c-sharpcorner.com/article/C-Sharp-tutorial/)
