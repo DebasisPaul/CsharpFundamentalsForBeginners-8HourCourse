@@ -77,7 +77,12 @@ This tutorial will cover the following topics:
 - [Web Framework Benchmarks](https://www.techempower.com/benchmarks/#hw=ph&test=plaintext)
 - [How do I ask a good question?](https://stackoverflow.com/help/how-to-ask)
 - [Microsoft c# LinkkedIn Learning](https://www.linkedin.com/learning/topics/c-sharp)
-- 
+- [.NET Foundation MeetUP](https://www.meetup.com/pro/dotnet)
+- [.NET Virtual User Group](https://dotnetfoundation.org/community/virtual-user-group)
+- [.NET Presentations: Events in a Box!](https://dotnetfoundation.org/community/resources)
+- [Questions tagged [.net] || StackOverflow](https://stackoverflow.com/questions/tagged/.net?sort=frequent)
+- [Questions tagged [c#] || StackOverFlow](https://stackoverflow.com/questions/tagged/c%23?tab=Frequent)
+- [On .NET || Channel 9](https://channel9.msdn.com/Shows/On-NET)
 
 
 <hr>
@@ -100,6 +105,12 @@ ASP.NET Resources
 - [ASP.NET](https://dotnet.microsoft.com/apps/aspnet)
 - [ASP.NET Support Policy](https://dotnet.microsoft.com/platform/support/policy/aspnet)
 - [ASP.NET Blog](https://devblogs.microsoft.com/aspnet/)
+- [ASP.NET || Github](https://github.com/aspnet)
+- [ASP.NET Core 101](https://channel9.msdn.com/Series/CSharp-101/?WT.mc_id=dotnet-22477-jasingl)
+- 
+
+
+- [Entity Framework || Github](https://github.com/dotnet/efcore)
 
 <hr>
 
@@ -133,7 +144,10 @@ VIDEOS
 - [.NET Conf 2020 - Day 1](https://www.youtube.com/watch?v=mS6ykjdOVRg)
 - [dotNET youtube](https://www.youtube.com/dotnet)
 - [https://www.youtube.com/dotnet](https://www.youtube.com/c/NETFoundation)
-- 
+- [Beginner's Series to: Web APIs](https://channel9.msdn.com/Series/Beginners-Series-to-Web-APIs)
+- [Reactor](https://channel9.msdn.com/Shows/Reactor)
+- [VS Code Livestreams](https://channel9.msdn.com/Shows/VS-Code-Livestreams)
+- [.NET Conf.NET Conf 2019](https://channel9.msdn.com/events/dotnetConf/NET-Conf-2019)
 
 Industry Leader Developer Site
 - [Apple Developer](https://developer.apple.com/)
