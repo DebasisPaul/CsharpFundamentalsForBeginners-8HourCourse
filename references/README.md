@@ -7,7 +7,7 @@ This tutorial will cover the following topics:
 - [Getting started tutorials for C# and ASP.NET](https://github.com/DebasisPaul/training-tutorials)
 - [Grow your c# skills || PluralSight](https://www.pluralsight.com/browse/software-development/c-sharp?exp=1)
 - [LEARNING PATHS ASP.NET Core || PlurlSight](https://www.pluralsight.com/paths/aspnet-core)
-
+- [The 2020 State of the OCTO——VERSE || Github Developer Survey](https://octoverse.github.com/)
 
 <hr>
 
@@ -71,6 +71,13 @@ This tutorial will cover the following topics:
 - [.NET Platform || Github](https://github.com/dotnet)
 - [.NET Product Roadmap](https://github.com/dotnet/core/blob/main/product-roadmap/current.md)
 - [Microsoft || Github](https://github.com/microsoft)
+- [Developer Community Your open channel to Microsoft engineering teams](https://developercommunity.visualstudio.com/search?space=61)
+- [The .Net Docs Show](https://dotnetdocs.dev/)
+- [Create .NET apps faster with NuGet](https://www.nuget.org/)
+- [Web Framework Benchmarks](https://www.techempower.com/benchmarks/#hw=ph&test=plaintext)
+- [How do I ask a good question?](https://stackoverflow.com/help/how-to-ask)
+- [Microsoft c# LinkkedIn Learning](https://www.linkedin.com/learning/topics/c-sharp)
+- 
 
 
 <hr>
@@ -124,6 +131,9 @@ DESKTOP App Developement
 VIDEOS
 - [.NET Conf 2021 - Focus on Windows](https://www.youtube.com/watch?v=mZRNjixZEMg)
 - [.NET Conf 2020 - Day 1](https://www.youtube.com/watch?v=mS6ykjdOVRg)
+- [dotNET youtube](https://www.youtube.com/dotnet)
+- [https://www.youtube.com/dotnet](https://www.youtube.com/c/NETFoundation)
+- 
 
 Industry Leader Developer Site
 - [Apple Developer](https://developer.apple.com/)
