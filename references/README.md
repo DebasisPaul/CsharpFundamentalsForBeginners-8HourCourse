@@ -5,7 +5,10 @@ This tutorial will cover the following topics:
 - [Show notes, slides, and samples from the CSharp with CSharpFritz show](https://github.com/DebasisPaul/csharp_with_csharpfritz)
 - [Get started learning C# with C# notebooks powered by .NET Interactive and VS Code.](https://github.com/DebasisPaul/csharp-notebooks)
 - [Getting started tutorials for C# and ASP.NET](https://github.com/DebasisPaul/training-tutorials)
-- 
+- [Grow your c# skills || PluralSight](https://www.pluralsight.com/browse/software-development/c-sharp?exp=1)
+- [LEARNING PATHS ASP.NET Core || PlurlSight](https://www.pluralsight.com/paths/aspnet-core)
+
+
 <hr>
 
 - [Tutorial: Create a simple C# console app in Visual Studio (part 1 of 2)](https://docs.microsoft.com/en-us/visualstudio/get-started/csharp/tutorial-console?view=vs-2022)
@@ -112,3 +115,19 @@ DESKTOP App Developement
 - [Universal Windows Platform documentation0](https://docs.microsoft.com/en-us/windows/uwp/)
 - [Windows Forms documentation](https://docs.microsoft.com/en-us/dotnet/desktop/winforms/?view=netdesktop-5.0)
 - [Windows Presentation Foundation documentation](https://docs.microsoft.com/en-us/dotnet/desktop/wpf/?view=netdesktop-5.0)
+
+<hr>
+
+VIDEOS
+- [.NET Conf 2021 - Focus on Windows](https://www.youtube.com/watch?v=mZRNjixZEMg)
+- [.NET Conf 2020 - Day 1](https://www.youtube.com/watch?v=mS6ykjdOVRg)
+
+Industry Leader Developer Site
+- [Apple Developer](https://developer.apple.com/)
+- [Google Developer](https://developers.google.com/)
+- [Amazon Developer](https://developer.amazon.com/)
+- [facebook Developer](https://developers.facebook.com/)
+- [IBM Developer](https://developer.ibm.com/)
+- [Cloud Services, Amazon Web Services](https://aws.amazon.com/)
+- [Oracle Developer](https://developer.oracle.com/)
+- 
