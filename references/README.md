@@ -6,7 +6,6 @@ This tutorial will cover the following topics:
 - [Get started learning C# with C# notebooks powered by .NET Interactive and VS Code.](https://github.com/DebasisPaul/csharp-notebooks)
 - [Getting started tutorials for C# and ASP.NET](https://github.com/DebasisPaul/training-tutorials)
 - [Grow your c# skills || PluralSight](https://www.pluralsight.com/browse/software-development/c-sharp?exp=1)
-- [LEARNING PATHS ASP.NET Core || PlurlSight](https://www.pluralsight.com/paths/aspnet-core)
 - [The 2020 State of the OCTO——VERSE || Github Developer Survey](https://octoverse.github.com/)
 
 <hr>
@@ -100,31 +99,6 @@ Future Technology by Microsoft
 
 <hr>
 
-ASP.NET Resources
-- [Learn ASP.NET](https://dotnet.microsoft.com/learn/aspnet)
-- [Gitter ASP.NET](https://gitter.im/aspnet/Home)
-- [ASP.NET Community Blogs](https://weblogs.asp.net/)
-- [Support lifecycle for ASP.NET web stack](https://docs.microsoft.com/en-us/troubleshoot/aspnet/support-lifecycle-web-stack?WT.mc_id=dotnet-35129-website)
-- [ASP.NET documentation](https://docs.microsoft.com/en-us/aspnet/core/?view=aspnetcore-5.0)
-- [ASP.NET](https://dotnet.microsoft.com/apps/aspnet)
-- [ASP.NET Support Policy](https://dotnet.microsoft.com/platform/support/policy/aspnet)
-- [ASP.NET Blog](https://devblogs.microsoft.com/aspnet/)
-- [ASP.NET || Github](https://github.com/aspnet)
-- [ASP.NET Core 101](https://channel9.msdn.com/Series/CSharp-101/?WT.mc_id=dotnet-22477-jasingl)
-- [Tutorial: Create a Razor Pages web app with ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/tutorials/razor-pages/?view=aspnetcore-6.0)
-- [Get started with ASP.NET Core MVC](https://docs.microsoft.com/en-us/aspnet/core/tutorials/first-mvc-app/start-mvc?view=aspnetcore-5.0&tabs=visual-studio)
-- [Migrating ASP.NET MVC Applications to Windows Containers](https://docs.microsoft.com/en-us/aspnet/mvc/overview/deployment/docker-aspnetmvc)
-- [ASP.NET Core Blazor supported platforms](https://docs.microsoft.com/en-us/aspnet/core/blazor/supported-platforms?view=aspnetcore-5.0)
-
-
-
-<hr>
-
-- [Entity Framework documentation](https://docs.microsoft.com/en-us/ef/)
-- [Entity Framework || Github](https://github.com/dotnet/efcore)
-
-<hr>
-
 - [Microsoft MVP since 2012 ("Developer Technologies" category)](https://github.com/thomaslevesque)
 - 
 <hr>
@@ -188,9 +162,6 @@ Microsoft Learning Path
 - [Azure SQL fundamentals](https://docs.microsoft.com/en-us/learn/paths/azure-sql-fundamentals/)
 
 Online Tutorials
-- [ASP.NET Core MVC Tutorial for Beginners](https://www.pragimtech.com/courses/asp-net-core-mvc-tutorial-for-beginners/)
-- [Introduction to ASP.NET Core Framework](https://dotnettutorials.net/lesson/introduction-to-asp-net-core/)
-- [ASP.NET Core Tutorials](https://www.tutorialsteacher.com/core)
 - [Alison](https://alison.com/)
 - [The Ultimate C# Series: Part 1](https://codewithmosh.com/p/csharp-basics-for-beginners)
 - [MIT Open Course Ware](https://ocw.mit.edu/courses/most-visited-courses/)
@@ -210,19 +181,15 @@ Online Tutorials
 - [Tutorials Point](https://www.tutorialspoint.com/tutorialslibrary.htm)
 - [C# Programming Language](https://www.geeksforgeeks.org/csharp-programming-language/)
 - [C# Tutorial](https://www.w3schools.com/cs/index.php)
-- [ASP and ASP.NET Tutorials](https://www.w3schools.com/asp/default.asp)
+
 
 InterView Question
 - [Top C# Interview Questions and Answers](https://hackr.io/blog/c-sharp-interview-questions)
 - [C# - Interview Questions](https://www.tutorialspoint.com/csharp/csharp_interview_questions.htm)
 - [C# Basic Interview Questions](https://www.interviewbit.com/c-sharp-interview-questions/)
 - [Top 50 C# Interview Questions and Answers for Experience & Freshers (2021 Update)](https://www.guru99.com/c-sharp-interview-questions.html)
-- [50 ASP.NET Interview Questions and Answers (PDF) in 2021](https://www.guru99.com/asp-net-interview-questions-answers.html)
 - [.Net Interview Questions](https://www.javatpoint.com/dot-net-interview-questions)
 - [Top .NET Interview Questions](https://intellipaat.com/blog/interview-question/dot-net-interview-questions/)
 - [Top 50 .NET Interview Questions To Look Out For In 2021](https://www.edureka.co/blog/interview-questions/dot-net-interview-questions/)
 - [.Net Interview Questions](https://mindmajix.com/net-interview-questions)
-- [ASP.NET Interview Questions](https://www.javatpoint.com/asp-dot-net-interview-questions)
-- [Basic ASP.NET Interview Questions](https://www.interviewbit.com/asp-net-interview-questions)
-- [Top 30+ ASP.NET Interview Questions and Answers](https://www.dotnettricks.com/learn/aspnet/top-20-aspnet-interview-questions-and-answers)
-- 
+
