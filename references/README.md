@@ -85,8 +85,6 @@ This tutorial will cover the following topics:
 - [Dapr for .NET Developers](https://docs.microsoft.com/en-us/dotnet/architecture/dapr-for-net-developers/)
 - [.NET Microservices: Architecture for Containerized .NET Applications](https://docs.microsoft.com/en-us/dotnet/architecture/microservices/)
 - [MICROSOFT LEARN FOR .NET Free. Cross-platform. Open source.](https://docs.microsoft.com/en-us/learn/dotnet/?WT.mc_id=dotnet-35129-website)
-- 
-
 
 <hr>
 
@@ -100,7 +98,7 @@ Future Technology by Microsoft
 <hr>
 
 - [Microsoft MVP since 2012 ("Developer Technologies" category)](https://github.com/thomaslevesque)
-- 
+
 <hr>
 
 - [Azure](https://azure.microsoft.com/en-us/)
