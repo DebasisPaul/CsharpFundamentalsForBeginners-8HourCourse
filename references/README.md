@@ -191,3 +191,11 @@ InterView Question
 - [Top 50 .NET Interview Questions To Look Out For In 2021](https://www.edureka.co/blog/interview-questions/dot-net-interview-questions/)
 - [.Net Interview Questions](https://mindmajix.com/net-interview-questions)
 
+## UDEMY C# COURSES
+
+---
+- [C# Basics for Beginners: Learn C# Fundamentals by Coding](https://www.udemy.com/course/csharp-tutorial-for-beginners/)
+- [C# Intermediate: Classes, Interfaces and OOP](https://www.udemy.com/course/csharp-intermediate-classes-interfaces-and-oop/)
+- [C# Advanced Topics: Prepare for Technical Interviews](https://www.udemy.com/course/csharp-advanced/)
+- [C# Developers: Learn the Art of Writing Clean Code](https://www.udemy.com/course/clean-code/)
+
