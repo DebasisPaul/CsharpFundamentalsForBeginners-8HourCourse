@@ -68,3 +68,19 @@ Best Sellers Rank: #398,510 in Books (See Top 100 in Books)
 #103 in Microsoft .NET
 #138 in Software Design Tools
 Customer Reviews: 4.5 out of 5 stars    48 ratings
+
+## Design Patterns /Object-Oriented Design
+
+1. Design Patterns: Elements of Reusable Object-Oriented Software 1st Edition
+       Best Sellers Rank: #8,348 in Books (See Top 100 in Books)
+       #1 in Software Reuse
+       #1 in Object-Oriented Software Design
+       #2 in Object-Oriented Design
+       Customer Reviews: 4.7 out of 5 stars    1,547 ratings
+
+2. Head First Design Patterns: Building Extensible and Maintainable Object-Oriented Software 2nd Edition 2nd Edition
+Best Sellers Rank: #16,952 in Books (See Top 100 in Books)
+#1 in Java Programming
+#5 in Object-Oriented Software Design
+#7 in Object-Oriented Design
+Customer Reviews: 4.8 out of 5 stars    217 ratings
