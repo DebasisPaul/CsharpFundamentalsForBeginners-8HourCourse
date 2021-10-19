@@ -84,3 +84,11 @@ Best Sellers Rank: #16,952 in Books (See Top 100 in Books)
 #5 in Object-Oriented Software Design
 #7 in Object-Oriented Design
 Customer Reviews: 4.8 out of 5 stars    217 ratings
+
+## SQL
+1. Learn SQL Quickly: A Beginner’s Guide to Learning SQL, Even If You’re New to Databases (Crash Course With Hands-On Project)
+Best Sellers Rank: #117,550 in Books (See Top 100 in Books)
+#4 in Prolog Programming
+#4 in Other Databases
+#10 in Microsoft SQL Server
+Customer Reviews: 4.6 out of 5 stars    128 ratings
