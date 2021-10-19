@@ -92,3 +92,6 @@ Best Sellers Rank: #117,550 in Books (See Top 100 in Books)
 #4 in Other Databases
 #10 in Microsoft SQL Server
 Customer Reviews: 4.6 out of 5 stars    128 ratings
+
+## Google Book Library
+- [C# 7.0 in a Nutshell: The Definitive Reference By Joseph Albahari, Ben Albahari](https://books.google.com.bd/books?id=HrE5DwAAQBAJ&printsec=frontcover)
