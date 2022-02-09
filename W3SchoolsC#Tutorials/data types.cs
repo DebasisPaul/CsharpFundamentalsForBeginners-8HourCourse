@@ -1,4 +1,4 @@
-using System;
+/* using System;
 
 namespace MyApplication
 {
@@ -19,4 +19,13 @@ namespace MyApplication
       Console.WriteLine(myText);
       }
    }
-}
+} */
+
+// C# Data types
+// Numbers. 1. Integer Types, 2. Floating Point Types
+// Integer Types. 1. int 2. long
+// Floating Point Types. 1. float, 2. double
+// Scientific numbers
+// Booleans
+// Characters
+// Strings
