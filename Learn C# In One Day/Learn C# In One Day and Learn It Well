@@ -8,7 +8,7 @@ Copyright © 2017 (Revised Edition)
 
 
 ## Table of Contents
-Chapter 1: Introduction to C#
+- Chapter 1: Introduction to C#
 What is C#?
 Why Learn C#?
 Chapter 2: Getting ready for C#
@@ -39,7 +39,6 @@ Chapter 4: Arrays, Strings and Lists
 Array
 Array Properties and Methods
 String
-******ebook converter DEMO Watermarks*******
 String Properties and Methods
 Lists
 List Properties and Methods
@@ -73,7 +72,6 @@ Properties
 Methods
 Constructors
 Instantiating an Object
-******ebook converter DEMO Watermarks*******
 Static Keyword
 Advanced Method Concepts
 Using Arrays and Lists
@@ -105,7 +103,6 @@ Constructor
 Method
 The Manager : Staff Class
 Fields
-******ebook converter DEMO Watermarks*******
 Properties
 Constructor
 Method
