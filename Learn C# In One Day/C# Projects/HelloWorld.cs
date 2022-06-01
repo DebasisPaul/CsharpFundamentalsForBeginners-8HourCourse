@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace HelloWaorls
+namespace HelloWorld
 {
     //A Simple Program to display the words Hello World
 
@@ -12,7 +12,7 @@ namespace HelloWaorls
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World");
+            Console.WriteLine("Hello, World!");
             Console.Read();
         }
     }
