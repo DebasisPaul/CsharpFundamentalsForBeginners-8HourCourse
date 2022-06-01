@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\debas\\OneDrive\\Desktop\\CsharpWithDebasisPaul\\Learn C# In One Day\\C# Projects\\C# Projects.csproj",
+      "projectUniqueName": "E:\\DeeDeeWalshProjectsbelviewDC\\CsharpWithDebasisPaul\\Learn C# In One Day\\C# Projects\\C# Projects.csproj",
       "projectName": "C# Projects",
-      "projectPath": "C:\\Users\\debas\\OneDrive\\Desktop\\CsharpWithDebasisPaul\\Learn C# In One Day\\C# Projects\\C# Projects.csproj",
+      "projectPath": "E:\\DeeDeeWalshProjectsbelviewDC\\CsharpWithDebasisPaul\\Learn C# In One Day\\C# Projects\\C# Projects.csproj",
       "packagesPath": "C:\\Users\\debas\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\debas\\OneDrive\\Desktop\\CsharpWithDebasisPaul\\Learn C# In One Day\\C# Projects\\obj\\",
+      "outputPath": "E:\\DeeDeeWalshProjectsbelviewDC\\CsharpWithDebasisPaul\\Learn C# In One Day\\C# Projects\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\debas\\AppData\\Roaming\\NuGet\\NuGet.Config",
