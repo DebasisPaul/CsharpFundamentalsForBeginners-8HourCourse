@@ -1,0 +1,17 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\HelloWorld",
+    "\\HelloWorld\\HelloWorld",
+    "\\HelloWorld\\HelloWorld\\obj",
+    "\\HelloWorld\\HelloWorld\\obj\\Debug",
+    "\\HelloWorld\\HelloWorld\\obj\\Debug\\net7.0",
+    "\\HelloWorld\\HelloWorld\\obj\\Debug\\net7.0\\refint",
+    "\\HelloWorld\\HelloWorld\\obj\\Release",
+    "\\HelloWorld\\HelloWorld\\obj\\Release\\net7.0",
+    "\\HelloWorld\\HelloWorld\\obj\\Release\\net7.0\\ref",
+    "\\HelloWorld\\HelloWorld\\obj\\Release\\net7.0\\refint"
+  ],
+  "SelectedNode": "\\HelloWorld\\HelloWorld\\HelloWorld.csproj",
+  "PreviewInSolutionExplorer": false
+}
