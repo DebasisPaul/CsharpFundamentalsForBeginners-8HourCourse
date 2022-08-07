@@ -1,1 +1,1 @@
-C# is a powerful and widely used programming language that you can use to make websites, games, mobile apps, desktop apps and more with .NET. In this video, Bob Tabor shows you the tools, how to write code, debug features, explore customizations, and more.
+C# is a powerful and widely used programming language that you can use to make websites, games, mobile apps, desktop apps and more with .NET. In this video, Debasis Paul shows you the tools, how to write code, debug features, explore customizations, and more.
